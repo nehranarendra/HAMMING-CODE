@@ -5,7 +5,7 @@
 //
 // Create Date: 21.02.2023 03:40:40
 // Design Name: 
-// Module Name: 8_BIT_VEDIC_MULTIPLIER
+// Module Name:  HAMMING_CODE_TB
 //////////////////////////////////////////////////////////////////////////////////
 
 module HAMMING_CODE_TB();
